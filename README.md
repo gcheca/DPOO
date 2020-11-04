@@ -1,6 +1,6 @@
 # DPOO
 
-Ejercicios prácticos de la asignatura de Diseño y Programación Orientada a Objetos. Primer Semestre 2020/21
+Ejercicios prácticos de la asignatura de Diseño y Programación Orientada a Objetos. Primer Semestre 2020/21 /n
 Por favor, uso responsable y educativo.
 
 
