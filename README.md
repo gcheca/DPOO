@@ -17,3 +17,9 @@ Please use responsibly and educationally.
 
 Log Book:
 
+PEC1 - Started 09/22  -  Finished 10/03
+
+PEC2 - Started 10/18  -  Finished 10/18
+
+PEC3 - Started 10/26  -  Finished 11/01
+
