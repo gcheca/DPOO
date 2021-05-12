@@ -30,8 +30,8 @@ PR1  - Started 11/26  -  Finished 11/29  -  B ***
 PR2  - Started 12/16  -  Finished 12/20  -  A
 
 
-* Nota: La nota debió haber sido superior, pasaba los tests hasta la B. Profesor exigente esperaba más nivel de calidad de código.
-* Note: Grade should have been higher, passed tests up to B. "Picky" (Demanding) teacher expected higher level of code quality.
+** Nota: La nota debió haber sido superior, pasaba los tests hasta la B. Profesor exigente esperaba más nivel de calidad de código.
+** Note: Grade should have been higher, passed tests up to B. "Picky" (Demanding) teacher expected higher level of code quality.
 
 *** Nota: Debió ser una A, el .zip entregado a tiempo no tenía todos los ficheros. 
 *** Note: Must be an A, due not all the files were compressed on time.
